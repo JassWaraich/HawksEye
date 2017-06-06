@@ -1,4 +1,4 @@
 # HawksEye
 Eye Tracking Software using gaze as an input device for interacting with computer.
 This software is highly beneficial for the people with motor disabilities.
-This Project Started by Jaspreet Waraich and Team.
+This Project is Started by Jaspreet Waraich and Team.
