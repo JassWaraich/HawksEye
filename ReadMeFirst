@@ -1,12 +1,12 @@
 Eye Tracking Application Overview:
 
 This is a computer application designed in Python that uses the OpenCV Library to detect the eyes of the person using the Cam.
-After the execution, it automatically directs user to the cam and detects the eyes indicated by rectangles.In future, we are planning
+After the execution, it automatically directs user to the cam and detects the eyes indicated by rectangles.In future, I am planning
 to extend it so that people with motor disabilities can interact with computer using their eye movements.
 
 Instructions for Execution:
 
-1. Copy all the source files into a directory
+1. Copy all the source files into a directory.
 2. Need to have a linux Environment.If not, download latest version of Ubuntu from https://www.ubuntu.com/download
 3. Open the terminal, Go to the directory where Source files are kept.
 4. Run the command chmod a+x video_traking_eydetection.py to change the file permission executable.
