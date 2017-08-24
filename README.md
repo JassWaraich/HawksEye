@@ -1,5 +1,3 @@
 # HawksEye
-Eye Tracking Software using gaze as an input device for interacting with computer.
-This software is highly beneficial for the people with motor disabilities.
-This Project is Started by Jaspreet Waraich and Team.
-University of Windsor, Ontario, Canada
+This is an eye tracking application which detects the eyes of the user via Cam.
+User needs to have UNIX based OS.Developed in Python using OpenCV.
