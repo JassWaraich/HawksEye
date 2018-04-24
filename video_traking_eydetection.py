@@ -2,7 +2,7 @@
 
 
 
-# @author       Jaspreet Singh (singh1i6@uwindsor.ca)
+# @author       Jaspreet Singh 
 # @date         Thursday,  24 August 2017
 
 
